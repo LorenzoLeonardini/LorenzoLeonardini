@@ -11,4 +11,4 @@
 - 📫 Reach me: [contact page](https://leonardini.dev#contacts)
 - :musical_score: My latest track is 
 
-<p align="center"><a href="https://open.spotify.com/track/6UjPClS5zPoVDAlk1gSsaS" target="_blank"><img src="https://raw.githubusercontent.com/LorenzoLeonardini/LorenzoLeonardini/master/spotify-track.png" align="left"></a></p>
+<p align="center"><a href="https://open.spotify.com/track/6UjPClS5zPoVDAlk1gSsaS" target="_blank"><img src="https://raw.githubusercontent.com/LorenzoLeonardini/LorenzoLeonardini/master/spotify-track.png"></a></p>
