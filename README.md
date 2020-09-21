@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working as lead background developer at [**tapandfish**](https://tapandfish.com)
 - :books: I try to learn as much as I can
-- 🌱 Currently scratching my head on **DB Unit Testing**
+- 🌱 Currently scratching my head on **Unit Testing and CI/CD**
 - ⚙️ I often code: `.php`, `.py`, `.sh`, `.c`, `.cpp`, `.js`, `.html`
 - 🌍 My most recent open source project is [**YAAV - Yet Another Algorithm Visualizer**](https://yaav.leonardini.dev)
 - 💬 Ping me about **development**, **security**, **music**, **electronics**, **synthesizers**, **DIY**, **science**
